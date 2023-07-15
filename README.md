@@ -40,4 +40,4 @@
   <img width="40" src="linkedin.svg">
 </a>
 </div>  
-![Snake animation](https://github.com/IgorEverton/IgorEverton/blob/output/github-contribution-grid-snake.svg)
+
