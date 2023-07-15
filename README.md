@@ -36,7 +36,7 @@
  </div>
   
 <h1 align="center">Linkedin</h1>
-<a target="_blank" href = "https://www.linkedin.com/in/igor-everton-s-479a90105/">
+<a href = "https://www.linkedin.com/in/igor-everton-s-479a90105/" target="_blank">
   <img width="40" src="linkedin.svg">
 </a>
 </div>  
